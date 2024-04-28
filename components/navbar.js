@@ -65,7 +65,7 @@ const Navbar = (props) => {
                 justify="space-between"
             >
                 <Flex align="center">
-                    <Heading as="h1" size="lg" letterSpacing={"tighter"} color={useColorModeValue("black", "white")}>
+                    <Heading as="h1" size="lg" color={useColorModeValue("black", "white")}>
                         <Logo />
                     </Heading>
                 </Flex>
@@ -78,16 +78,16 @@ const Navbar = (props) => {
                     flexGrow={1}
                     mt={{ base: 4, md: 0 }}
                 >
-                    <LinkItem href="https://github.com/kenjitheman?tab=repositories" path={path}>
+                    <LinkItem href="https://github.com/nezutero?tab=repositories" path={path}>
                         &projects
                     </LinkItem>
-                    <LinkItem href="https://t.me/kenjitheman" path={path}>
+                    <LinkItem href="https://t.me/nezutero" path={path}>
                         &contact
                     </LinkItem>
                     <LinkItem href="support" path={path}>
                         &support_me
                     </LinkItem>
-                    <LinkItem href="https://github.com/kenjitheman/cv/blob/main/cv.pdf" path={path}>
+                    <LinkItem href="https://github.com/nezutero/cv/blob/main/cv.pdf" path={path}>
                         &cv
                     </LinkItem>
                 </Stack>
@@ -105,10 +105,10 @@ const Navbar = (props) => {
                                 size="lg"
                             />
                             <MenuList>
-                                <MenuItem as={MenuLink} href="https://github.com/kenjitheman?tab=repositories">
+                                <MenuItem as={MenuLink} href="https://github.com/nezutero?tab=repositories">
                                     &projects
                                 </MenuItem>
-                                <MenuItem as={MenuLink} href="https://t.me/kenjitheman">
+                                <MenuItem as={MenuLink} href="https://t.me/nezutero">
                                     &contact
                                 </MenuItem>
                                 <MenuItem
@@ -119,7 +119,7 @@ const Navbar = (props) => {
                                 </MenuItem>
                                 <MenuItem
                                     as={Link}
-                                    href="https://github.com/kenjitheman/cv/blob/main/cv.pdf"
+                                    href="https://github.com/nezutero/cv/blob/main/cv.pdf"
                                 >
                                     &cv
                                 </MenuItem>

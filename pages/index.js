@@ -12,7 +12,7 @@ const ProfileImage = chakra(Image, {
 
 const Home = () => (
     <Layout
-        title="kenjitheman"
+        title="nezutero"
         description="Software Engineer, Tech Enthusiast, Weeaboo, Life Enjoyer"
     >
         <Container
@@ -38,7 +38,7 @@ const Home = () => (
             <Box display={{ md: "flex" }} style={{ marginBottom: "5%" }}>
                 <Box flexGrow={1}>
                     <Heading as="h2" variant="page-title" color={useColorModeValue("black", "white")}>
-                        # kenjitheman
+                        # nezutero
                     </Heading>
                     <Text color={useColorModeValue("black", "gray.200")}>
                         ["Software Engineer", "Tech Enthusiast", "Weeaboo", "Life Enjoyer" ]
@@ -93,7 +93,7 @@ const Home = () => (
                         <img
                             mx="auto"
                             width="100%"
-                            src={`https://github-readme-stats.vercel.app/api/top-langs/?username=kenjitheman&hide_border=false&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=20&theme=${useColorModeValue("white", "radical")}`}
+                            src={`https://github-readme-stats.vercel.app/api/top-langs/?username=nezutero&hide_border=false&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=20&theme=${useColorModeValue("white", "radical")}`}
                             alt="most used languages"
                         />
                     </a>
@@ -108,7 +108,7 @@ const Home = () => (
                     color={useColorModeValue("black", "gray.200")}
                 >
                     <Link
-                        href="https://github.com/kenjitheman"
+                        href="https://github.com/nezutero"
                         target="_blank"
                         color={useColorModeValue("black", "purple.400")}
                     >
@@ -116,7 +116,7 @@ const Home = () => (
                     </Link>
                     ,{"  "}
                     <Link
-                        href="https://myanimelist.net/profile/plastiey"
+                        href="https://myanimelist.net/profile/nezutero"
                         target="_blank"
                         color={useColorModeValue("black", "purple.400")}
                     >

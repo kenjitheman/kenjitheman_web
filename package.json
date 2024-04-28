@@ -1,5 +1,5 @@
 {
-  "name": "kenjitheman",
+  "name": "nezutero",
   "version": "2.0",
   "description": "personal website",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "kenjitheman",
+  "author": "nezutero",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.15",

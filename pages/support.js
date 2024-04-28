@@ -6,8 +6,8 @@ import Section from "../components/section";
 const Support = () => {
     return (
         <Layout
-            title="support | kenjitheman"
-            description="support kenjitheman by donating"
+            title="support | nezutero"
+            description="support nezutero by donating"
         >
             <Container
                 align="center"
@@ -110,27 +110,6 @@ const Support = () => {
                                 flexWrap={"wrap"}
                             >
                                 TTP5DX9gdy1ihBphuSF9nGy5pKzEvD7nkT
-                            </Text>
-                        </Box>
-                        <Box display={"column"}>
-                            <Heading as="h3"
-                                variant="section-title"
-                                fontSize="1.5rem"
-                                color={useColorModeValue("black", "purple.400")}
-                            >
-                                # ko-fi:
-                            </Heading>
-                            <Text
-                                fontSize="1.2rem"
-                                color={useColorModeValue("black", "white")}
-                                p={2}
-                                align="center"
-                                alignSelf={"center"}
-                                flexWrap={"wrap"}
-                            >
-                                <NextLink href="https://ko-fi.com/kenjitheman" target="_blank">
-                                    ko-fi.com/kenjitheman
-                                </NextLink>
                             </Text>
                         </Box>
                     </Section>

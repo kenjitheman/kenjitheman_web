@@ -1,7 +1,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/kenjitheman/webmanjs.git
+git clone https://github.com/nezutero/webmanjs.git
 ```
 
 - To install all dependencies:

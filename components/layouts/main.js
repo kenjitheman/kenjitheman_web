@@ -19,12 +19,12 @@ const Main = ({ children, router }) => {
             <Head>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta name="description" content={description} />
-                <meta name="author" content="kenjitheman" />
+                <meta name="author" content="nezutero" />
                 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-                <meta property="og:site_name" content="kenjitheman" />
-                <meta name="og:title" content="kenjitheman" />
+                <meta property="og:site_name" content="nezutero" />
+                <meta name="og:title" content="nezutero" />
                 <meta property="og:type" content="website" />
-                <title>kenjitheman</title>
+                <title>nezutero</title>
             </Head>
 
             <NavBar path={router.asPath} />

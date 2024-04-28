@@ -19,7 +19,7 @@ const SocialLinks = () => (
         >
             <List style={{ width: { base: "100%", md: "48%" }, margin: "auto" }}>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://github.com/kenjitheman" target="_blank">
+                    <Link href="https://github.com/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             p={7}
@@ -28,12 +28,12 @@ const SocialLinks = () => (
                             rounded="2xl"
                             fontSize="1.2rem"
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://twitter.com/kenjitheman_" target="_blank">
+                    <Link href="https://x.com/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -42,12 +42,12 @@ const SocialLinks = () => (
                             leftIcon={<FaXTwitter size={30} />}
                             fontSize="1.2rem"
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://t.me/kenjitheman" target="_blank">
+                    <Link href="https://t.me/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -56,12 +56,12 @@ const SocialLinks = () => (
                             rounded="2xl"
                             p={7}
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://myanimelist.net/profile/plastiey" target="_blank">
+                    <Link href="https://myanimelist.net/profile/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -70,7 +70,7 @@ const SocialLinks = () => (
                             leftIcon={<SiMyanimelist size={30} />}
                             fontSize="1.2rem"
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
@@ -78,7 +78,7 @@ const SocialLinks = () => (
 
             <List style={{ width: { base: "100%", md: "48%" }, margin: "auto" }}>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://www.reddit.com/user/tsundere_dawg" target="_blank">
+                    <Link href="https://www.reddit.com/user/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -87,12 +87,12 @@ const SocialLinks = () => (
                             leftIcon={<FaReddit size={30} />}
                             fontSize="1.2rem"
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://www.linkedin.com/in/kenjitheman" target="_blank">
+                    <Link href="https://www.linkedin.com/in/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -101,12 +101,12 @@ const SocialLinks = () => (
                             leftIcon={<FaLinkedinIn size={30} />}
                             fontSize="1.2rem"
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="https://www.instagram.com/plastiey" target="_blank">
+                    <Link href="https://www.instagram.com/nezutero" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -115,12 +115,12 @@ const SocialLinks = () => (
                             leftIcon={<FaInstagram size={30} />}
                             fontSize="1.2rem"
                         >
-                            @kenjitheman
+                            @nezutero
                         </Button>
                     </Link>
                 </ListItem>
                 <ListItem style={{ paddingBottom: "1%" }}>
-                    <Link href="mailto:im@kenjitheman.dev" target="_blank">
+                    <Link href="mailto:nezutero@gmail.com" target="_blank">
                         <Button
                             variant="ghost"
                             color={useColorModeValue("black", "purple.400")}
@@ -129,7 +129,7 @@ const SocialLinks = () => (
                             leftIcon={<MdOutlineMail size={30} />}
                             fontSize="0.9rem"
                         >
-                            im@kenjitheman.dev
+                            nezutero@gmail.com
                         </Button>
                     </Link>
                 </ListItem>
